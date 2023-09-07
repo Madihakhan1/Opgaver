@@ -2,7 +2,7 @@
 
 //4.a
 
-for(int a = 0; a < 21; a+=1){
+for(int a = 0; a < 20; a++){
 println(a);
 }
 
