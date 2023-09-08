@@ -68,7 +68,9 @@ switch (weekDay) {
   
   case 6:
     println("Sunday");
-    break;    
+    break; 
+
+default:println("NOT VALID")
 }
 
 
